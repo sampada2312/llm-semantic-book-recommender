@@ -30,6 +30,7 @@ Jupyter Notebook -> Data exploration and prototyping
 
 # Demo Video
 A video demonstrating the working of the recommender system is attached below. Watch it to see the system in action!
+
 https://github.com/user-attachments/assets/61a46f42-5cf8-4fe0-b99a-61f7bb614c0c
 
 
