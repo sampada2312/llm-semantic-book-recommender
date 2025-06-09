@@ -13,19 +13,13 @@ This recommender system allows users to find books based on their interests, pre
 6. Gradio Dashboard: Interactive web interface for easy user input and visualization of recommendations.
 
 # Technologies Used
-Python
-
-Pandas -> Data manipulation and exploration
-
-LangChain -> Vector embeddings and similarity search
-
-Hugging Face Transformers -> Sentiment analysis, zero-shot classification
-
-Chroma DB -> Vector database for fast similarity search
-
-Gradio -> Interactive web dashboard
-
-Jupyter Notebook -> Data exploration and prototyping
+- Python
+- Pandas -> Data manipulation and exploration
+- LangChain -> Vector embeddings and similarity search
+- Hugging Face Transformers -> Sentiment analysis, zero-shot classification
+- Chroma DB -> Vector database for fast similarity search
+- Gradio -> Interactive web dashboard
+- Jupyter Notebook -> Data exploration and prototyping
 
 # How It Works
 1. User Input: The user provides a query or selects preferences (e.g., "A book to teach children about nature," "happy tone," "Nonfiction").
