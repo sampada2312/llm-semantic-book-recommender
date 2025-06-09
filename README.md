@@ -14,11 +14,17 @@ This recommender system allows users to find books based on their interests, pre
 
 # Technologies Used
 Python
+
 Pandas -> Data manipulation and exploration
+
 LangChain -> Vector embeddings and similarity search
+
 Hugging Face Transformers -> Sentiment analysis, zero-shot classification
+
 Chroma DB -> Vector database for fast similarity search
+
 Gradio -> Interactive web dashboard
+
 Jupyter Notebook -> Data exploration and prototyping
 
 # How It Works
